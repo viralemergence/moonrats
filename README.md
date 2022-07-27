@@ -1,4 +1,4 @@
-<img align="right" src="Moonrats.png" width="400">
+<img align="right" src="Moonrats.png" width="200">
 
 # A demo dataset for animal disease
 
