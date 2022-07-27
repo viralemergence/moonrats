@@ -1,0 +1,10 @@
+PREDICT_EventID,PREDICT_IndividualID,Country,AnimalID,TaxaGroup,AnimalClass,ScientificNameToLowestKnownRank,TaxonomicRank,IDCertainty,Sex,SampleDate,SampleLocationLatitude,SampleLocationLongitude,AgeClass,ConditionAtSampling,AnimalUseProducedSold,GeoReference
+6309,162051,"Malaysia, Peninsular",PMW01666,other,free-ranging wild animal,Echinosorex gymnura,species,barcoded species (>97% match),male,2018-11-01,4.25,101.71,adult (reproductive age),alive,N/A,POINT (101.71 4.25)
+2345,42747,"Malaysia, Sabah",PSW02001,other,free-ranging wild animal,Echinosorex gymnura,species,field ID certain,male,2017-01-15,5.52,118.21,adult (reproductive age),alive,N/A,POINT (118.21 5.52)
+2345,42749,"Malaysia, Sabah",PSW02011,other,free-ranging wild animal,Echinosorex gymnura,species,barcoded species (>97% match),male,2017-01-16,5.52,118.21,adult (reproductive age),alive,N/A,POINT (118.21 5.52)
+2605,56561,"Malaysia, Sabah",PSW02060,other,free-ranging wild animal,Echinosorex gymnura,species,barcoded species (>97% match),female,2017-03-18,5.49,118.23,adult (reproductive age),alive,N/A,POINT (118.23 5.49)
+722,18935,"Malaysia, Sabah",PSW01381,other,free-ranging wild animal,Echinosorex gymnura,species,field ID certain,female,2015-08-08,5.53,118.07,adult (reproductive age),alive,N/A,POINT (118.06999999999998 5.53)
+657,16329,"Malaysia, Sabah",PSW01691,other,free-ranging wild animal,Echinosorex gymnura,species,field ID certain,male,2016-04-07,5.53,118.07,adult (reproductive age),alive,N/A,POINT (118.06999999999998 5.53)
+2940,69814,"Malaysia, Sabah",PSW01628,other,free-ranging wild animal,Echinosorex gymnura,species,field ID certain,female,2016-01-27,5.54,118.09,adult (reproductive age),alive,N/A,POINT (118.09 5.540000000000001)
+2346,42761,"Malaysia, Sabah",PSW01987,other,free-ranging wild animal,Echinosorex gymnura,species,field ID certain,female,2016-11-21,5.53,118.07,adult (reproductive age),alive,N/A,POINT (118.06999999999998 5.53)
+633,15902,"Malaysia, Sabah",PSW01741,other,free-ranging wild animal,Echinosorex gymnura,species,field ID certain,female,2016-04-15,5.53,118.07,adult (reproductive age),alive,N/A,POINT (118.06999999999998 5.53)
